@@ -1,5 +1,7 @@
 # PWA-demo
 
+Demo App Link: https://hgkpwademo.netlify.app/
+
 * Here demostrate the stages and properties to make the site to PWA (Progressive Web App).
 
 * Below list of files and methods to implement PWA
