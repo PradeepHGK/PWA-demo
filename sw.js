@@ -1,11 +1,23 @@
 const cacheName = 'news-v1';
 const staticAssets = [
-  './',
-  './index.html',
-  './styles.css',
-  './index.js',
-  './newsApi.js',
-  './news-article.js'
+  '/',
+  '/index.html',
+  '/styles.css',
+  '/main.css',
+  '/css/bootstrap.min.css',
+  '/css/bootstrap-responsive.min.css',
+  '/css/bootstrappage.css',
+  '/css/flexslider.css',
+  '/js/jquery-1.7.2.min.js',
+  '/js/bootstrap.min.js',
+  '/js/superfish.js',
+  '/js/jquery.scrolltotop.js',
+  '/js/common.js',
+  '/js/jquery.flexslider-min.js',
+  '/index.js',
+  '/newsApi.js',
+  '/news-article.js',
+  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'
 ];
 
 self.addEventListener('install', async e => {

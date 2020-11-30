@@ -1,13 +1,12 @@
 {
-  "name": "Bad News",
-  "short_name": "News",
-  "start_url": ".",
+  "name": "AdvikIndia",
+  "short_name": "Advik",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "A news app.",
+  "description": "Herabl Products",
   "icons": [
     {
-<<<<<<< HEAD
       "src": "images/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
@@ -15,10 +14,6 @@
     {
       "src": "images/icon-192x192.png",
       "sizes": "192x192",
-=======
-      "src": "images/logo.png",
-      "sizes": "500x500",
->>>>>>> 7312eb3641cb30b80f8e7faa486341254aa2ff78
       "type": "image/png"
     }
   ]
